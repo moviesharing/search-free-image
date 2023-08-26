@@ -1,4 +1,4 @@
-const accessKey = im9x4x6Hl_zUSC7ZLj-n-m3LW10L-otc2spIOVh6DKw;
+const accessKey = "im9x4x6Hl_zUSC7ZLj-n-m3LW10L-otc2spIOVh6DKw";
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
